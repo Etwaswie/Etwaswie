@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <!--<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpZHo4NmdxOGF3cDQ2d3JteGhvbWt1bWkyNGQ1bWtpcXl3cXN5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>-->
+<!-- <div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpZHo4NmdxOGF3cDQ2d3JteGhvbWt1bWkyNGQ1bWtpcXl3cXN5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFlZTFlcWI3MnJlb3FoaXZpMno2dGFoMmk1cjZ4ZzZ3dDJkbWN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 ## Hi there! I`m Yulia.  👋
 
@@ -42,7 +42,7 @@ ITMO AI Talent Hub student 2023-2025
   </a> 
 </div>
 
-#### Libraries
+#### Libraries:
 <div id="badges"> 
   <a href="https://pandas.pydata.org/"> 
     <img alt="Pandas Badge" src="https://img.shields.io/badge/Pandas-%239ACEEB?style=for-the-badge"> 
@@ -64,7 +64,7 @@ ITMO AI Talent Hub student 2023-2025
   </a> 
 </div>
 
-#### NLP
+#### NLP:
 <div id="badges"> 
   <a href="https://nlp.stanford.edu/nltk/"> 
     <img alt="NLTK Badge" src="https://img.shields.io/badge/NLTK-%23E4717A?style=for-the-badge"> 
@@ -86,7 +86,7 @@ ITMO AI Talent Hub student 2023-2025
   </a> 
 </div>
 
-#### RecSys
+#### RecSys:
 <div id="badges"> 
   <a href="https://github.com/benfred/implicit"> 
     <img alt="Implicit Badge" src="https://img.shields.io/badge/Implicit-%23A8E4A0?style=for-the-badge"> 
@@ -105,7 +105,7 @@ ITMO AI Talent Hub student 2023-2025
   </a> 
 </div>
 
-#### Other technologies
+#### Other technologies:
 <div id="badges"> 
   <a href="https://www.python.org/"> 
     <img alt="Python Badge" src="https://img.shields.io/badge/Python-%239ACEEB?style=for-the-badge"> 
