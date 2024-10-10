@@ -16,6 +16,9 @@ ITMO AI Talent Hub student 2023-2025
   <a href="https://leetcode.com/u/etwaswie/" style="text-decoration: none; margin-right: 10px;">
     <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode">
   </a>
+  <a href="https://www.hackerrank.com/profile/etwaswie">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
+  </a>
 </div>
 
 ### Technologies
