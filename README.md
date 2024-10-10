@@ -9,10 +9,11 @@ ITMO AI Talent Hub student 2023-2025
 
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>-->
-  <a href="https://t.me/etwasvvie" style="text-decoration: none;">
+  <a href="https://t.me/etwasvvie" style="text-decoration: none; margin-right: 10px;">
     <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram">
   </a>
-  <a href="https://leetcode.com/u/etwaswie/" style="text-decoration: none;">
+  <span style="display: inline-block; width: 100px;"></span>
+  <a href="https://leetcode.com/u/etwaswie/" style="text-decoration: none; margin-right: 10px;">
     <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode">
   </a>
 </div>
