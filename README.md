@@ -5,14 +5,12 @@
 
 ## Hi there! I`m Yulia.  👋
 
-ITMO AI Talent Hub student 2023-2025
+ITMO AI Talent Hub student 2023-2026
 
 <div id="badges">
   <!--<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>-->
   <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram">
   <span style="display: inline-block; width: 100px;"></span>
-  <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
 </div>
 
 ### Technologies
