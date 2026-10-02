@@ -7,12 +7,6 @@
 
 ITMO AI Talent Hub student 2023-2026
 
-<div id="badges">
-  <!--<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>-->
-  <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram">
-  <span style="display: inline-block; width: 100px;"></span>
-</div>
-
 ### Technologies
 #### Parsing:
 <div id="badges">
